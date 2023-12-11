@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Raleway:ital,wght@0,100;0,200;0,300;0,500;0,600;1,100;1,200;1,300;1,400;1,500;1,600&display=swap');
+
+.roboto{
+    font-family:'Roboto';
+    font-weight:400;
+}
+
+.body{
+    background-image:url(/img/moon.jpg);
+    background-repeat: no-repeat;
+    font-size: 15px;
+}  
+
+.bg-menu{
+    background-color: #023047;
+}
+
+.cuadro{
+    border: 5px solid;
+    border-color: #023047;
+    border-radius: 10px;
+    background-color: #219ebc;
+}
+
+.boton-reserva{
+    background-color: #023047;
+    border-radius: 10px;
+    color: white;
+}
+
+.texto-footer{
+    color: white;
+}
