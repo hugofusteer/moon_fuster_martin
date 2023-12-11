@@ -31,3 +31,8 @@
 .texto-footer{
     color: white;
 }
+
+.imagenes{
+    background-size: cover;
+    width: 100%;
+}
