@@ -1,14 +1,29 @@
-@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Raleway:ital,wght@0,100;0,200;0,300;0,500;0,600;1,100;1,200;1,300;1,400;1,500;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Raleway:ital@0;1&display=swap');
 
-.roboto{
-    font-family:'Roboto';
-    font-weight:400;
+.texto-menu{
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+.h1{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.p{
+    color: black;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+
 }
 
 .body{
     background-image:url(/img/moon.jpg);
     background-repeat: no-repeat;
     font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
 }  
 
 .bg-menu{
@@ -35,4 +50,19 @@
 .imagenes{
     background-size: cover;
     width: 100%;
+}
+
+.input{
+    border: 3px solid;
+    border-color: #023047;
+    border-radius: 9px;
+    background-color: #8ecae6;
+    
+}
+
+.boton-enviar{
+    border: 3px solid;
+    border-color: #023047;
+    border-radius: 9px;
+    background-color: #8ecae6;
 }
